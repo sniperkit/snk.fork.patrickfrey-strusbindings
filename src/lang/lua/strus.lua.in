@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 local strus_init,err = package.loadlib("@CMAKE_INSTALL_PREFIX@/@LIB_INSTALL_DIR@/strus/libstrus_bindings_lua.so","luaopen_strus")
 if not strus_init then
 	error( err)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 Format: 3.0 (quilt)
 Source: strusbindings
 Version: @STRUS_VERSION@-xUbuntu14.04

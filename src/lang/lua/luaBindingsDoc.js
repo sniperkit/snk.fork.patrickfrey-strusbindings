@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 var classSelection = "1";
 var memberSelection = "1_1";
 var lastNavTable = {};

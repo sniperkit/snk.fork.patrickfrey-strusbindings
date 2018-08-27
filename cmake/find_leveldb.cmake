@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # original from https://github.com/justmoon/bzing/blob/master/cmake/FindLevelDB.cmake, adapted
 
 if( NOT LEVELDB_ROOT)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 from distutils.core import setup, Extension
 setup(
 	name = "Strus",

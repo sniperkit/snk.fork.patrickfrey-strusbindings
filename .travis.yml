@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 language: cpp
 php:
   - '7.0'
